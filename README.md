@@ -1,4 +1,4 @@
-# 🤖 POPKID AI - Copilot Edition
+# 🤖 POPKID AI-App  Edition
 
 POPKID AI is a high-performance, installable Progressive Web App (PWA) that provides a seamless chat interface powered by the Copilot API. Designed with a sleek, futuristic dark-mode UI and built for speed.
 
